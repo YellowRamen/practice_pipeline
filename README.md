@@ -2,6 +2,12 @@
 
 In this project, we will extract all pokemons from Gen 1. Then we will try and figure out how to get their types and predict what they are strong/weak against.
 
+# Before you start checklist
+- Make sure you clone the repo.
+- Create a virtual environment either with conda or virtualenv.
+- Get all the python packages you need for this project via conda or pip.
+- Start a new git branch for the feature you are working on.
+
 ## PART I:
 ##### reading from API and save the data into files and into database.
 Use: <br>
